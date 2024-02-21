@@ -1,4 +1,6 @@
 #include <Servo.h>
+
+// Comments are in Spanish
  
 const int trigPin = 9;  // Pin del detector de proximidad
 const int echoPin = 10; // Pin del detector de proximidad
